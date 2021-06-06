@@ -1,0 +1,38 @@
+body{
+background-color:#EFEFEF;
+margin: 0;
+max-width: 100%;
+overflow-x: hidden;
+}
+
+
+.footer.btm{
+    padding:20px 80px;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.fab {
+    color:gray;
+    font-size:2em;
+    padding-right:15px;
+}
+
+.navtop {
+    font-family: 'Playfair Display', serif;
+    color:#E92569;
+}
+
+
+h1{
+font-family: 'Playfair Display', serif;
+color:#E92569;
+}
+
+h2{
+    font-family: 'Playfair Display', serif;
+    color:#E92569;
+}
+
+
